@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ep-ancient-dew-amocb35c-pooler.c-5.us-east-1.aws.neon.tech/com-miapp?sslmode=require
+    username: neondb_owner
+    password: npg_nt8F4YjuxvQl
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  jackson:
+    serialization:
+      indent-output: true
+
+server:
+  port: 8080
