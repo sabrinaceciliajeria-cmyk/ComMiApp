@@ -71,10 +71,8 @@ flowchart TD
 
 ## 📸 Resultado del sistema
 
-<p align="center">
-  <img src="docs/images/resultado-api.png" width="700"/>
-</p>
----
+<img width="197" height="98" alt="resultado-api png" src="https://github.com/user-attachments/assets/1d0d1194-5f88-49c4-a346-a86e7fe9b499" />
+
 
 ## 🧠 ¿Qué representa este proyecto?
 
